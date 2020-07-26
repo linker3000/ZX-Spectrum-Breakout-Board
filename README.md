@@ -32,11 +32,11 @@ https://easyeda.com/linker3000/ZXBreakout
 
 **ZX Spectrum ROM cartridge**
 
-![Image](proto1.jpg)
+![Image](proto1.JPG)
 
-![Image](proto2.jpg)
+![Image](proto2.JPG)
 
-![Image](code.jpg)
+![Image](code.png)
 
 This will be written-up as a separate project.
 
