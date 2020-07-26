@@ -12,7 +12,7 @@ A plug-in PCB for the ZX Spectrum that can be populated with your own project.
 * Room for (optional) reset switch.
 * 5V/0V points around the edge of the prototyping area.
 * Room for an optional polyfuse to protect the ZX Spectrum from power mishaps on the board.
-* Place for bulk decoupling capacitor (suggest 100uF at 16V or 10V)
+* Place for bulk decoupling capacitor (suggest 100uF at 16V or 10V).
 
 The board design files are available to all at the following address. Copies of the board can be ordered directly from that site or the files taken to your favourite PCB manufacturer.
 
@@ -32,6 +32,12 @@ https://easyeda.com/linker3000/ZXBreakout
 
 **ZX Spectrum ROM cartridge**
 
-This will be written-up as a separate project
+![Image](proto1.jpg)
 
-Notes to follow
+![Image](proto2.jpg)
+
+![Image](code.jpg)
+
+This will be written-up as a separate project.
+
+Notes to follow.
