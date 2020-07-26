@@ -36,7 +36,7 @@ https://easyeda.com/linker3000/ZXBreakout
 
 ![Image](proto2.JPG)
 
-![Image](code.png)
+![Image](code1.png)
 
 This will be written-up as a separate project.
 
