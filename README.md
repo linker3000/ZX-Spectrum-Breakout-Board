@@ -30,9 +30,9 @@ https://easyeda.com/linker3000/ZXBreakout
 
 ![Image](edgeconn.png)
 
-## Example project
+## Example projects
 
-**ZX Spectrum ROM cartridge**
+**ZX Spectrum ROM cartridge with joystick ports**
 
 ![Image](proto1.JPG)
 
@@ -40,6 +40,4 @@ https://easyeda.com/linker3000/ZXBreakout
 
 ![Image](code1.png)
 
-This will be written-up as a separate project.
-
-Notes to follow.
+See: https://github.com/linker3000/ZX-Spectrum-ROM-and-Joystick-Board
