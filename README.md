@@ -38,6 +38,8 @@ https://easyeda.com/linker3000/ZXBreakout
 
 ![Image](proto2.JPG)
 
+![Image](spec-joy.jpeg)
+
 ![Image](code1.png)
 
 See: https://github.com/linker3000/ZX-Spectrum-ROM-and-Joystick-Board
